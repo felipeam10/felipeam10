@@ -1,5 +1,4 @@
 ## Hi, I'm Felipe Amaral 
-Java spring boot developer and QA automation
 
 <div align="center">
   <a href="https://github.com/felipeam10">
